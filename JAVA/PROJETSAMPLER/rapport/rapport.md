@@ -1,5 +1,5 @@
 # Main screens 
-<div style="display:'flex'"><div><h3>Welcome Page / Soundboard</h3><img src="./assets/soundboard.jpg" alt="Soundboard page" width="200" height="350"><h3>Edit Button SoundBoard / Local Library</h3><img src="./assets/localLib.jpg" alt="Soundboard page" width="200" height="350"></div><div><h3>Edit Button SoundBoard / Record sound</h3><img src="./assets/micro.jpg" alt="Soundboard page" width="200" height="350"></div><div><h3>Edit Button SoundBoard / Download freesound</h3><img src="./assets/freesound.jpg" alt="Soundboard page" width="200" height="350"></div></div>
+<div align="left"><h3>Welcome Page / Soundboard</h3><img align="left" src="./assets/soundboard.jpg" alt="Soundboard page" width="200" height="350"><h3>Edit Button SoundBoard / Local Library</h3><img src="./assets/localLib.jpg" align="center" alt="Soundboard page" width="200" height="350"></div><div><h3>Edit Button SoundBoard / Record sound</h3><img src="./assets/micro.jpg" alt="Soundboard page" width="200" height="350"></div><div><h3>Edit Button SoundBoard / Download freesound</h3><img src="./assets/freesound.jpg" alt="Soundboard page" width="200" height="350"></div>
 
 # Main functions
 ## Playing the button sound.
