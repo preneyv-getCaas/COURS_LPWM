@@ -1,5 +1,5 @@
 # Main screen 
-![Soundboard page](./assets/soundboard.jpg)
+![Soundboard page](./assets/soundboard.jpg =50x100)
 ![Edit Page - LocalLib](./assets/localLib.jpg)
 ![Edit Page - Micro](./assets/micro.jpg)
 ![Edit Page - Freesound](./assets/freesound.jpg)
